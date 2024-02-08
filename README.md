@@ -14,7 +14,7 @@ My first attempt to create a calculation App from UI and UX perspective. Very ve
 ![customers](https://github.com/gmzln/assets/blob/main/Screenshot%202024-02-08%20at%2015.01.15.png)
 
 
-### calculate working for employees
+### calculate working hours for single employee
 
 ![calculate](https://github.com/gmzln/assets/blob/main/Screenshot%202024-02-08%20at%2015.01.27.png)
 
